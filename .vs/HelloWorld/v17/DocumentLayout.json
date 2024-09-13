@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\repos\\HelloWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0B4A8D09-2CD4-438B-86B2-F52F16A92168}|HelloWorld\\HelloWorld.vcxproj|E:\\repos\\HelloWorld\\HelloWorld\\Helloworld.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{0B4A8D09-2CD4-438B-86B2-F52F16A92168}|HelloWorld\\HelloWorld.vcxproj|solutionrelative:HelloWorld\\Helloworld.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Helloworld.c",
+              "DocumentMoniker": "E:\\repos\\HelloWorld\\HelloWorld\\Helloworld.c",
+              "RelativeDocumentMoniker": "HelloWorld\\Helloworld.c",
+              "ToolTip": "E:\\repos\\HelloWorld\\HelloWorld\\Helloworld.c",
+              "RelativeToolTip": "HelloWorld\\Helloworld.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-09-12T15:29:28.506Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
